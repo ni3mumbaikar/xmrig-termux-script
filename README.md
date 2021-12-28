@@ -8,12 +8,12 @@ A simple bash script to build, configure miner environment in termux using offic
 
 Install termux application from [here]()  
 
-  
+
 
 
 Open termux and paste following command to Install, configure and run miner with a single command
 ```bash
-git clone https://github.com/ni3mumbaikar/xmrig-termux-script.git && cd xmrig-termux-script && chmod +x xmrig-install.sh && ./xmrig-install.sh
+pkg install git -y && git clone https://github.com/ni3mumbaikar/xmrig-termux-script.git && cd xmrig-termux-script && chmod +x xmrig-install.sh && ./xmrig-install.sh
 ```
 
 
