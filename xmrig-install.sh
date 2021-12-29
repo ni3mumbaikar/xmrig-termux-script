@@ -2,7 +2,7 @@ APT_OPTIONS='--allow-downgrades --allow-remove-essential --allow-change-held-pac
 
 apt-get $APT_OPTIONS --yes upgrade
 apt-get install git -y
-pkg install cmake -y
+pkg install cmake build-essential cmake perl pcre2 openssl libid3tag libflac lua54 libc++ -y
 git clone https://github.com/xmrig/xmrig.git
 cd xmrig
 
