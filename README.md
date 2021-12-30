@@ -6,7 +6,7 @@ A simple bash script to build, configure miner environment in termux using offic
 
 ## Installation
 
-Install termux application from [here]()  
+Install termux application from [here](https://play.google.com/store/apps/details?id=com.termux&hl=en&gl=US)  
 
 
 
