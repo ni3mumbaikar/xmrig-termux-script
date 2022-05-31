@@ -24,5 +24,3 @@ pkg install git -y && git clone https://github.com/ni3mumbaikar/xmrig-termux-scr
 
 ⚠️ Note : This is one time script next time you have to start the xmrig manually as this script is downloading building and configuring xmrig this process has to be done once only  
 📝 Todo : Solution is check particular files are present at right path using bash conditionals if build files already present then it can just start miner
-
-🤝 I'll fix this issues as soon as I can
